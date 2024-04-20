@@ -1,8 +1,3 @@
-<?php
-//تعــــــــدل لآإ تغــــير ححِقوق 
-// تغير ححِقوق تبين فششــــــــلڪ يآإ بزر ههههههههههههه
-// تطوير عمــــڪم وآإثــــــــق //
-
 ob_start();
 define(#'API_KEY'271327144:AAH0Y1kVwqzFRzYnbZnRj89TEdNFLwL7Ti0');
 echo "setWebhook ~> <a href=\"https://api.telegram.org/bot".API_KEY."/setwebhook?url=".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME']."\">https://api.telegram.org/bot".API_KEY."/setwebhook?url=".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME']."</a>";
